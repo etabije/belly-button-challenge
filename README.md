@@ -17,4 +17,4 @@ Xpert Learning Assistant
 
 Contributors
 
-Project by Edward 
+Project by Edward Tabije
