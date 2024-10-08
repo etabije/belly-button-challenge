@@ -8,7 +8,7 @@ The bubble chart visualizes data with otu_ids represented on the x-axis and as m
 
 The app also includes a metadata section that displays relevant information, updating dynamically when a new sample is selected. Finally, the project is deployed on GitHub Pages, ensuring easy access for users.
 
-Acknowledgments
+Resources:
 
 Professor Melissa Ingle  
 Cassidy Cruz  
